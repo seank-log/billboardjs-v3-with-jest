@@ -1,6 +1,6 @@
 # billboardjs-v3-with-jest
 
-> A Vue.js project
+> billboard.js v3 with jest project
 
 ## Build Setup
 
